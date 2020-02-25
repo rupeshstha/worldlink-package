@@ -22,10 +22,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Thebikramlama\\Worldlink"
+                "Thebikramlama\\WorldlinkServiceProvider"
             ],
             "aliases": {
-                "Worldlink": "Thebikramlama\\Worldlink"
+                "Worldlink": "Thebikramlama\\Worldlink\\Worldlink"
             }
         }
     }
