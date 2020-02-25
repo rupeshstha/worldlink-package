@@ -18,5 +18,15 @@
         "psr-4": {
             "Thebikramlama\\Worldlink\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thebikramlama\\Worldlink"
+            ],
+            "aliases": {
+                "Worldlink": "Thebikramlama\\Worldlink"
+            }
+        }
     }
 }
