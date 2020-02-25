@@ -1,0 +1,22 @@
+{
+    "name": "thebikramlama/worldlink",
+    "description": "Worldlink Package to query user data from worldlink's system.",
+    "type": "library, worldlink, api, nepal, internet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bikram Lama",
+            "email": "thebikramlama1123@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php" : "^7.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Thebikramlama\\Worldlink\\": "src/"
+        }
+    }
+}
