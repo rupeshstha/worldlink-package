@@ -1,7 +1,7 @@
 {
     "name": "thebikramlama/worldlink",
     "description": "Worldlink Package to query user data from worldlink's system.",
-    "type": "library, worldlink, api, nepal, internet",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
